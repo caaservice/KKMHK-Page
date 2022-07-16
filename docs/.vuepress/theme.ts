@@ -16,7 +16,7 @@ export default hopeTheme({
 
   // repo: "kkmTeam/kkmhk",
 
-  docsDir: "demo/src",
+  docsDir: "docs",
 
   // navbar
   navbar: navbar,
